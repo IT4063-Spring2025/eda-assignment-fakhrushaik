@@ -50,12 +50,14 @@ You'll also find some tips and links to documentations that will help you comple
 ---------------
 ## 💭 Reflection and Self Assessment
 
-**I learned:** (repeat as needed)
-- **I learned:** how to secure your Database and API keys and secrets using environment variables
-- **I learned:** how to read data from a hosted SQL Database
-- **I learned:** how to read data from an API
-- **I learned:** how to read data from a MongoDB database
-- **I learned:** how to perform web scraping to extract data from a website
+**I learned:** (repeat as needed)  
+- **I learned:** Load and pre-process data using `pandas`  
+- **I learned:** Clean data and preparing it for analysis  
+- **I learned:** Use visualization techniques to explore and understand the data  
+- **I learned:** Use visualization techniques to identify patterns and relationships in the data  
+- **I learned:** Use visualization to derive insights from the data  
+- **I learned:** Apply basic statistical analysis to derive insights from the data  
+- **I learned:** Communicate your findings through clear and effective data visualizations and summaries  
 
 **I struggled with:** (repeat as needed)
 - **I struggled with** None.
