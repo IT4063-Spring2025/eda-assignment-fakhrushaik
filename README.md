@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/adY-NnME)
 # Exploratory Data Analysis - Assignment
 
 ## 🔍 Overview
@@ -49,33 +50,39 @@ You'll also find some tips and links to documentations that will help you comple
 ---------------
 ## 💭 Reflection and Self Assessment
 
-**I learned:** (repeat as needed)
-- .
+**I learned:** (repeat as needed)  
+- **I learned:** Load and pre-process data using `pandas`  
+- **I learned:** Clean data and preparing it for analysis  
+- **I learned:** Use visualization techniques to explore and understand the data  
+- **I learned:** Use visualization techniques to identify patterns and relationships in the data  
+- **I learned:** Use visualization to derive insights from the data  
+- **I learned:** Apply basic statistical analysis to derive insights from the data  
+- **I learned:** Communicate your findings through clear and effective data visualizations and summaries  
 
 **I struggled with:** (repeat as needed)
-- .
+- **I struggled with** None.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- **I need the instructor to help me with:** None.
 
 **How long did it take you to complete this assignment? and reflect on that**
-[ ] hours.
+[ 3] hours.
 
 **How often did you have to check the solution to the problem? How do you feel about that?**
-
+- Haven't used it to write but used the solution to verify.
 
 **If I were to do this assignment again, I would:** (repeat as needed)
-- .
+- **If I were to do this assignment again, I would:** complete it in a hour.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ 20] out of 20.
 
 --------------------
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- **I used the following links, books, and other resources in my work:** None.
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- **I received help from the following people:** Varun Raj. 
 
 ---
 ## Copyrights and License
